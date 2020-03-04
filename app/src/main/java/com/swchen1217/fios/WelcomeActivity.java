@@ -17,7 +17,7 @@ public class WelcomeActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_wolcome);
+        setContentView(R.layout.activity_welcome);
 
         getSupportActionBar().hide();
         logo = findViewById(R.id.imageView);
