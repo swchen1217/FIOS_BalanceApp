@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FIOS</string>
+    <string name="app_name">FIOS Balance</string>
+    <string name="developed_by_swc">Developed by SWC (陳思惟)\nLayout Design by Dabo(黃柏諭)</string>
 </resources>
