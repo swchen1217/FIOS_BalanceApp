@@ -19,7 +19,7 @@ public class WelcomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
 
-        getSupportActionBar().hide();
+        //getSupportActionBar().hide();
         logo = findViewById(R.id.imageView);
         tv = findViewById(R.id.powerBy);
 
